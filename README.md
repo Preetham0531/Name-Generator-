@@ -6,13 +6,13 @@ This project processes a list of names and performs operations using a neural ne
 name_generator.ipynb: The main Jupyter notebook containing the code for processing names and performing model operations.
 names.txt: A text file with a list of names. Ensure this file is in the same directory as the notebook to allow successful reading.
 
-##Requirements
+## Requirements
 Python 3.x
 Jupyter Notebook or Jupyter Lab
 PyTorch
 Other dependencies: matplotlib
 
-##Setup Instructions
+## Setup Instructions
 Clone the Project
 
 ```
