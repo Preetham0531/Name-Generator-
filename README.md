@@ -1,36 +1,43 @@
-Project Title
+# Name Generator
+
 This project processes a list of names and performs operations using a neural network with PyTorch. The project demonstrates fundamental operations such as tokenizing names, building mappings, and using PyTorch for basic deep learning tasks.
 
-Project Structure
-AK_03_mark1-Copy2.ipynb: The main Jupyter notebook containing the code for processing names and performing model operations.
+## Project Structure
+name_generator.ipynb: The main Jupyter notebook containing the code for processing names and performing model operations.
 names.txt: A text file with a list of names. Ensure this file is in the same directory as the notebook to allow successful reading.
-Requirements
+
+##Requirements
 Python 3.x
 Jupyter Notebook or Jupyter Lab
 PyTorch
 Other dependencies: matplotlib
-Setup Instructions
-Clone or Download the Project
 
-Download the project files and place them in a directory.
-Ensure names.txt is present in the directory to avoid errors.
-Install Required Libraries
+##Setup Instructions
+Clone the Project
+
+```
+git clone https://github.com/Preetham0531/Name-Generator
+```
+
+## Install Required Libraries
 
 Open a terminal and navigate to the project directory, then run:
 
-bash
-Copy code
+```
 pip install torch matplotlib jupyter
+```
+
 Running the Project
 
 Start the Jupyter Notebook server:
 
-bash
-Copy code
+```
 jupyter notebook
-Then, open the AK_03_mark1-Copy2.ipynb notebook and run the cells sequentially.
+```
 
-Project Details
+Then, open the name_generator.ipynb notebook and run the cells sequentially.
+
+## Project Details
 
 The notebook loads names.txt and performs preprocessing to map characters to indices.
 It uses PyTorch to implement functions and operations related to character sequences.
