@@ -16,7 +16,7 @@ Other dependencies: matplotlib
 Clone the Project
 
 ```
-git clone https://github.com/Preetham0531/Name-Generator
+git clone https://github.com/Preetham0531/Name-Generator-
 ```
 
 ## Install Required Libraries
